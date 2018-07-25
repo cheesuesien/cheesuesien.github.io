@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kopi Ais & Teh Tarik | The Parque Cafe</title>
+	<link rel="stylesheet" type="text/css" href="../css/stylesheet.css"/>
+</head>
+<body>
+	<div class="backgroundimg" id="backgroundparque"></div>	
+	<nav>
+		<?php include('includes/nav.php'); ?>
+	</nav>
+	<div class="translucent">
+		<h2>FOOD REVIEW - THE PARQUE CAFE @ KOTA KEMUNING</h2>
+		<div class="pic"><img src="../images/TPC1.jpg"/></div>
+		<p id="pictagline">The Parque Cafe @ Kota Kemuning</p>
+		<p>So, most people don’t really come by Kota Kemuning. It’s not a place that commands attention. 
+		Even so, I find myself pleasantly surprised when I stumble upon any of its hidden treasures. </p>
+		<p>Which was what happened last weekend. I went to The Parque Café at Eco Sanctuary. 
+		When you get to the place, you’ll have to park your car at a designated area opposite the café 
+		and hop on a buggy to get to your destination. Don’t worry, it wasn’t a hassle, took just three 
+		minutes and the guards were extremely helpful and pleasant about it.</p>
+		<p>When I caught sight of The Parque Café, I was instantly filled with adoration. </p>
+		<div class="pic"><img src="../images/TPC3.jpg"/>
+		<img src="../images/TPC4.jpg"/></div>
+		<p id="pictagline">Outside The Parque Cafe</p>
+		<p>The quaint glass house café surrounded by a garden was like something out of a fairy tale. 
+		Was thinking to myself, “My, I would NOT mind living here, and walking my dog down this very 
+		European-designed streets, in heels, which is super impractical but you know, this place was so 
+		posh, I could pull it off”. </p>
+		<div class="pic"><img src="../images/TPC5.jpg"/>
+		<img src="../images/TPC6.jpg"/></div>
+		<p id="pictagline">Inside The Parque Cafe</p>
+		<p>For a café that oozed luxury in terms of the exterior infrastructure, I have to admit, 
+		I was quite nervous about the price. Cringing at the thought of paying an arm and a leg just to 
+		get a drink at this place.</p>
+		<p>But surprisingly, the prices here are quite reasonable.</p>
+		<div class="pic"><img src="../images/TPC7.jpg"/></div>
+		<p id="pictagline">The Menu</p>
+		<p>The menu was quite limited, but what impressed me the most were their cakes.</p>
+		<div class="pic"><img src="../images/TPC8.jpg"/></div>
+		<p id="pictagline">Chocolate Belgium Cake</p>
+		<p>They were huge. I had the Chocolate Belgium Cake (RM 13) and Grilled Chicken Sandwich (RM13).</p>
+		<div class="pic"><img src="../images/TPC9.jpg"/></div>
+		<p id="pictagline">Grilled Chicken Sandwich</p>
+		<p>The sandwich was surprisingly good, and the cake, let’s just say that I would have ordered a second 
+		slice if not for my sheer willpower to stick to my damn diet. Was really yummy. I would definitely 
+		return for it.</p>
+		<div class="pic"><img src="../images/TPC10.jpg"/></div>
+		<p id="pictagline">Loving the  interior design of this place!</p>
+		<div class="pic"><img src="../images/TPC2.jpg"/></div>
+		<p>All in all, I loved sitting in that glass house café. The ambiance was perfect and the food was decent. 
+		It was one lavish but happily affordable experience.</p>
+
+		
+	</div>
+	<div id="footer">
+		<p id="copyright">&copy 2016 Chee Sue Anne | All Rights Reserved</p>
+	</div>
+</body>
+</html>

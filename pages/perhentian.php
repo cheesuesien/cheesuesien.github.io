@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kopi Ais & Teh Tarik | Perhentian</title>
+	<link rel="stylesheet" type="text/css" href="../css/stylesheet.css"/>
+</head>
+<body>
+	<div class="backgroundimg" id="backgroundperhentian"></div>	
+	<nav>
+		<?php include('../includes/nav.php'); ?>
+	</nav>
+	<div class="translucent">
+		<h2>Escape to Perhentian</h2>
+		<p>A stop by. That is what Perhentian literally translates to. An alluring hidden jewel on 
+		the east coast of West Malaysia, it is a spot not to be missed. I went to Perhentian Kecil, 
+		the smaller and less commercialized of the two islands Perhentian consists of. </p>
+		<div class="pic">
+			<img src="../images/Perhentian1.jpg"/>
+		</div>
+		<h3>How to get to Perhentian Kecil:</h3>
+		<p>1.	Take a bus or plane to Kota Bahru. </p>
+		<p>2.	Take a bus or taxi to Kuala Besut Jetty (1 hour)</p>
+		<p>3.	Hop on to a ferry that will take you to Perhentian Kecil (45 mins). Will cost RM70 for a round trip. </p>
+		<p>Perhentian Kecil is my favourite hideaway in Malaysia for three reasons:</p>
+		<div class="pic">
+			<img src="../images/Perhentian2.jpg"/>
+		</div>
+		<p>1.	Its exquisite beauty.</p>
+		<p>2.	It's pristine. Quite untouched by pollution.</p>
+		<p>3.	The people. They are a whole different level of chilled out. </p>
+		<h3>Things to do in Perhentian:</h3>
+		<p>1.	Enjoy the peace and quiet</p>
+		<p>You will not regret coming to Perhentian. It is the perfect place to extricate yourself 
+		from the cacophony of the city, relax and enjoy the quiet. Perhentian oozes serenity, the 
+		longer you stay, the more peaceful and 'loose' you get. It is clearly seen in the people there. 
+		They live their lives with no hint of stress or worry. Just another day by the beach.</p>
+		<div class="pic">
+			<img src="../images/Perhentian3.jpg"/>
+		</div>
+		<p>Perhentian Kecil is the best place to find a shady spot, lie down, and just lose yourself 
+		in a book. Good luck with that though, the exceedingly calm environment will have you drifting 
+		off to slumber more often that you'd expect. I have to say, I've never been so relaxed anywhere 
+		else on earth.</p>
+		<p>2.	Soak up Perhentian's natural beauty</p>
+		<p>The water here is crystal clear. You can see fishes swimming around 20 feet below the water's 
+		surface. That was how transparent it is. </p>
+		<div class="pic">
+			<img src="../images/Perhentian4.jpg"/>
+		</div>
+		<p>When you step into the water, you can see everything underneath. It's so shockingly clear, 
+		I couldn't believe my fortune in stumbling across such a gorgeous island. The epitome of nature's 
+		beauty is showcased everywhere on this isle. </p>
+		<p>So go snorkeling! There are many packages costing less than RM50 that will take you out to three 
+		or more snorkelling spots around the island. </p>
+		<div class="pic">
+			<img src="../images/Perhentian5.jpg"/>
+		</div>
+		<p>You'll get to observe giant turtles, admire a vibrant multitude of corals, and if you're lucky, 
+		be able to swim with the sharks. That is, if you find them (sharks are shy). </p>
+		<p>Besides snorkeling, scuba diving is an activity you most definitely must try out while at 
+		Perhentian. With diving sites here that attract divers from all over the world, it would be sad 
+		to miss out a chance to explore the underwater world here at Perhentian. Give it a shot! There 
+		are many diving schools here that offer an introductory dive lesson for RM200. You will be taught 
+		how to breathe underwater and then be brought to a diving site around 20 feet deep to test out your 
+		new found diving skills. I guarantee, it will be an unforgettable experience. It's definitely one 
+		that I will cherish for the rest of my life. Learning to breathe through the oxygen tank underwater 
+		was undoubtable a nerve-racking experience, but the moment you go under and see the bottom of the sea, 
+		your mind will explode. </p>
+		<div class="pic">
+			<img src="../images/Perhentian6.jpg"/>
+			<img src="../images/Perhentian7.jpg"/>
+		</div>
+		<p>The beauty you find at the ocean floor is surreal. The live corals emanated a haunting beauty 
+		that I couldn't help but be hypnotized with, which resulted in my being left behind by the group 
+		so often. The fishes I saw, swimming unperturbed at arms-length around me, was just magnetic. If 
+		I didn't have to bite down on the tube of air keeping me alive, there was no doubt that my mouth 
+		would have hanging open, as I stared rudely at all the passing sea creatures. It was magnificent 
+		being a part of their world even if it was just for a few moments. </p>
+		<p>3.	Get swept away with Perhentian's night life</p>
+		<div class="pic">
+			<img src="../images/Perhentian8.jpg"/>
+		</div>
+		<p>Perhentian Kecil has its own unique entertainment for when the sun went down. Fire shows, movie 
+		screenings, clubs by the beach. There are an assortment of activities that pop up during the night. 
+		The best thing about exploring the night action is the people that you'll meet. Perhentian is a 
+		place you'll encounter very interesting people from all walks of life, from all parts of the world. 
+		Be prepared to be up all night enjoying great company and talking about the most random and interesting 
+		things. Don't worry, you'll have the whole day tomorrow to sleep :)</p>
+		<p>So that's it. Perhentian is without question, worth a stop by while you're in Malaysia. That is 
+		if it doesn't entrance you to stay a little longer. I have spoken to people there who gave up their 
+		jobs in the city just to come and live in Perhentian. I think it's more than just the beauty of 
+		this place that captures their hearts. It's the calm here, the nature, the people and their way of 
+		life. Which explains why this my favourite place in Malaysia. The place I will always return to, 
+		again and again, for a stop by. </p>
+	</div>
+	<div id="footer">
+		<p id="copyright">&copy 2016 Chee Sue Anne | All Rights Reserved</p>
+	</div>
+</body>
+</html>

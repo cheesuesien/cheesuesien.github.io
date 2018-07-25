@@ -1,0 +1,456 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+.dropbtn {
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+ 
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+	left: 128px;
+	top: 29px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#dropdown-travel {
+	position: absolute;
+	left: 128px;
+}
+
+#dropdown-food {
+	position: absolute;
+	left: 205px;
+}
+
+#dropdown-thoughts {
+	position: absolute;
+	left: 295px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+#header {
+	display: inline-block;
+	position: relative;
+}
+
+#header>img {
+	width: 100%;
+	height: 100%;
+	margin-top: 40px;
+	min-width: 100%;
+	min-height: 100%;
+	
+}
+
+#font {
+	position: absolute;
+	top: 50px;
+	text-align: center;
+	margin: auto;
+	display: block;
+	width: 80%;
+	left: 0;
+	right: 0;
+}
+/*
+h1 {
+	position: absolute;
+	top: 20px;
+	width: 100%;
+	font-family: Century Gothic Light, sans-serif;
+	font-size: 5em;
+	font-weight: lighter;
+	text-align: center;
+	color: black;
+
+}*/
+
+
+nav {
+	background-color: black;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	display: block;
+	height: 40px;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}
+
+nav> ul {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+nav > ul > li {
+	display: inline;
+	width: 70%;
+	padding: 10px 0 10px 0;
+	font-family: calibri;
+
+}
+
+.nava {
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px 10px 20px;
+}
+
+#intro {
+	background-color: #f4e3db;
+	width: 100%;
+	margin-top: -4px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#quote {
+	padding: 1em;
+	border-top: 1px solid #6f6d6d;
+	border-bottom: 1px solid #6f6d6d;
+}
+
+#intro img {
+	text-align: center;
+	margin: auto;
+	display: block;
+	padding-top: 20px;
+
+
+	padding-bottom: 20px;
+}
+
+p {
+	display: block;
+	width: 70%;
+	font-family: Gadugi;
+	color: #333333;
+	line-height: 2em;
+	text-align: justify;
+	margin: 0 auto;
+	padding-bottom: 1em;
+}
+
+#intro p {
+	width: 55%;
+}
+
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.countrylist > ul {
+	width: 95%;
+	margin: 50px auto;
+	padding: 0;
+}
+
+.countrylist> ul> li {
+	text-align: left;
+	margin: 0 auto;
+}
+
+.diva {
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 1.1em;
+	color: #80765B;
+	line-height: 1.7em;
+	margin:0 auto;
+}
+
+.tagline {
+	width: 65%;
+	display: inline-block;
+	position: absolute;
+	top: 25px;
+	left: 225px;
+	text-align: left;
+
+}
+
+span {
+	font-size: 1.3em;
+}
+
+
+.country {
+	background-color: #ebe7db;
+	width: 700px;
+	height: 200px;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.7);
+	margin: 50px auto;
+	position: relative;
+}
+
+
+.country img {
+	margin-top: 25px;
+	margin-left: 25px;
+	padding-right: 25px;
+	border-right: 1px solid black;
+}
+
+#footer {
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	position: relative;
+	clear: both;
+}
+
+.footera{
+	font-family: Impact, sans-serif;
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	margin-left: 20%;
+	position: relative;
+	top: 20px;
+}
+
+.footera:hover {
+	color: #bbbbbb
+}
+
+#copyright {
+	font-family: calibri, sans-serif;
+	color: white;
+	font-size: 0.8em;
+	position: absolute;
+	bottom: 0px;
+	margin-left: 20%;
+
+	
+}
+
+.backgroundimg, html {
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.backgroundimg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+	z-index: -1;
+	padding: 0;
+	margin-top: -80px;
+}
+
+#backgroundtravel {
+	background-image: url("../images/travel background.jpg");
+}
+
+
+.translucent {
+	width: 70%;
+	background-color: rgba(255,255,255,0.7);
+	border: 2px solid #E3E3E3;
+	border-radius: 2px;
+	margin: 100px auto;
+	padding: 50px 0;
+	
+}
+
+h2 {
+	text-align: center;
+	margin: 20px;
+}
+
+.diva:hover {
+	color: #382E0F;
+	background-color: #E0DAC5;
+
+}
+
+.nava:hover {
+	color: #bbbbbb;
+}
+
+.nava:active {
+	background-color: #bbbbbb;
+}
+
+#active {
+	color: #bbbbbb;
+}
+
+#backgroundonebrokegirl {
+	background-image: url("../images/One Broke Girl.jpg");
+
+}
+
+#backgroundsrilanka {
+	background-image: url("../images/Srilanka background.jpg");
+}
+
+h3 {
+	text-align: center;
+}
+
+
+.pic > img {
+	text-align: center;
+	border: 10px solid white;
+	display: inline-block;
+	margin: 20px;
+	width: 60%;
+}
+
+.pic {
+	text-align: center;
+	display: block;
+}
+
+#backgroundkuwait {
+	background-image: url("../images/Kuwait background.jpg");
+}
+
+#backgroundvietnam {
+	background-image: url("../images/Vietnam background.jpg");
+}
+
+#backgroundperhentian {
+	background-image: url("../images/perhentian background.jpg")
+}
+
+#backgroundbali {
+	background-image: url("../images/bali background.jpg")
+}
+
+#backgroundusa {
+	background-image: url("../images/USA background.jpg")
+}
+
+#backgroundsingapore {
+	background-image: url("../images/singapore background.jpg")
+}
+
+#backgroundfood {
+	background-image: url("../images/Food-background.jpg")
+}
+
+#backgroundparque {
+	background-image: url("../images/TPC background.jpg")
+}
+
+h4 {
+	text-align: center;
+	padding: 10px;
+}
+
+#pictagline {
+	text-align: center;
+	font-size: 0.9em;
+	margin-top: -20px;
+}
+
+#backgroundcontact {
+	background-image: url("../images/contact background.jpg")
+}
+
+.icon {
+	width: 40px;
+	height: 40px;
+	padding-right: 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.contactlist p {
+	display: inline-block;
+
+}
+
+.contacta {
+	display: inline-block;
+	width: 70%;
+	font-family: Gadugi;
+	line-height: 2em;
+	text-align: left;
+	margin: 0 auto;
+	padding-bottom: 1em;
+}
+
+#about{
+	width: 85%;
+	margin: 100px auto;
+	position: relative;
+	
+}
+
+#sueanne{
+	padding-top: 50px;
+	padding-bottom: 97px;
+	background-color: white;
+	width: 48%;
+	float: left;
+}
+	
+#about img{
+	display: block;
+	margin: 50px auto;
+}
+
+#jac{
+	padding-top: 50px;
+	background-color: white;
+	width: 48%;
+	float: right;
+}
+
+#footercontact {
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	bottom: 0;
+	clear: both;
+}
